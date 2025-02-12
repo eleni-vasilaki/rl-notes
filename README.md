@@ -14,7 +14,7 @@ The material emphasises the importance of **manual derivations** for deep unders
 
 ## **Table of Contents**
 
-1. [Introduction to RL: Concepts, NumPy, and OOP in Python](./notebooks/under-construction.ipynb)
+1. [Introduction to RL: Concepts, NumPy, and OOP in Python](./notebooks/01_introduction.ipynb)
 2. [Differentiation: Derivations from Scratch](./notebooks/under-construction.ipynb)
 3. [Probabilities: Dungeons and Dragons](./notebooks/under-construction.ipynb)
 4. [Bandits: Immediate Rewards](./notebooks/under-construction.ipynb)
