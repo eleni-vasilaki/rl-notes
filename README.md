@@ -15,8 +15,8 @@ The material emphasises the importance of **manual derivations** for deep unders
 ## **Table of Contents**
 
 1. [Introduction to RL: Concepts, Matrix Operations and NumPy](./notebooks/01_introduction.ipynb)
-2. [Differentiation: Derivations from Scratch](./notebooks/under-construction.ipynb)
-3. [Probabilities: Dungeons and Dragons](./notebooks/under-construction.ipynb)
+2. [Probabilities: Dungeons, Dragons and other monsters](./notebooks/02_probabilities.ipynb)
+3. [Differentiation: Derivations from Scratch](./notebooks/under-construction.ipynb)
 4. [Bandits: Immediate Rewards](./notebooks/under-construction.ipynb)
 
 ---
