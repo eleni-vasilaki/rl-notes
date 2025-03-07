@@ -14,9 +14,9 @@ The material emphasises the importance of **manual derivations** for deep unders
 
 ## **Table of Contents**
 
-1. [Introduction to RL: Concepts, Matrix Operations and NumPy](./notebooks/01_introduction.ipynb)
-2. [Revisiting Probabilities: Dungeons, Dragons and other monsters](./notebooks/02_probabilities.ipynb)
-3. [Differentiation: The Concept of Optimisation, (Partial) Derivatives and (Partial) Differential Equations](./notebooks/03_derivatives.ipynb)
-4. [Bandits: Reinforcement Learning through the lens of Optimisation. Immediate Rewards](./notebooks/04_bandits.ipynb)
-5. [Markov Decision Processes and the Bellman Equations](./notebooks/under-construction.ipynb)
+1. [Introduction to RL: Concepts, Matrix Operations and NumPy.](./notebooks/01_introduction.ipynb)
+2. [Revisiting Probabilities: Dungeons, Dragons and other monsters.](./notebooks/02_probabilities.ipynb)
+3. [Differentiation: The Concept of Optimisation, (Partial) Derivatives and (Partial) Differential Equations.](./notebooks/03_derivatives.ipynb)
+4. [Reinforcement Learning through the lens of Optimisation; Immediate Rewards.](./notebooks/04_bandits.ipynb)
+5. [Markov Decision Processes and the Bellman Equations.](./notebooks/under-construction.ipynb)
 ---
