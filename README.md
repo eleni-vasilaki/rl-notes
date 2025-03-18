@@ -18,5 +18,6 @@ The material emphasises the importance of **manual derivations** for deep unders
 2. [Revisiting Probabilities: Dungeons, Dragons and other monsters.](./notebooks/02_probabilities.ipynb)
 3. [Differentiation: The Concept of Optimisation, (Partial) Derivatives and (Partial) Differential Equations.](./notebooks/03_derivatives.ipynb)
 4. [Reinforcement Learning through the lens of Optimisation; Immediate Rewards.](./notebooks/04_bandits.ipynb)
-5. [Markov Decision Processes and the Bellman Equations.](./notebooks/under-construction.ipynb)
+5. [Markov Decision Processes and the Bellman Equations.](./notebooks/05_mdp.ipynb)
+6. [Temporal Difference Learning.](./notebooks/under-construction.ipynb)
 ---
