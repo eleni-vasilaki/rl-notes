@@ -19,6 +19,6 @@ The material emphasises the importance of **manual derivations** for deep unders
 3. [Differentiation: The Concept of Optimisation, (Partial) Derivatives and (Partial) Differential Equations.](./notebooks/03_derivatives.ipynb)
 4. [Reinforcement Learning through the lens of Optimisation; Bandits.](./notebooks/04_bandits.ipynb)
 5. [Markov Decision Processes and the Bellman Equations.](./notebooks/05_mdp.ipynb)
-6. [Temporal Difference Learning.](./notebooks/06_tdlearing.ipynb)
+6. [Temporal Difference Learning.](./notebooks/06_tdlearning.ipynb)
 7. [Artificial Neural Networks as Function Approximations. Perceptrons.](./notebooks/under-construction.ipynb)
 ---
