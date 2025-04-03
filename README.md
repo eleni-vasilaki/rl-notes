@@ -1,4 +1,4 @@
-# 📚 Reinforcement Learning for Engineers: Deriving Algorithms from Loss Functions
+# 📚 Reinforcement Learning for Engineers: deriving algorithms from loss functions
 
 Reinforcement learning (RL) is perhaps the most fascinating type of machine learning. It draws inspiration from psychology and has the ability to directly model human and animal behaviour. It is also among the most challenging machine learning techniques, largely due to the absence of specific feedback during training, which adds to the complexity of the learning process.
 
@@ -20,6 +20,6 @@ The material emphasises the importance of **manual derivations** for deep unders
 4. [Reinforcement Learning through the lens of Optimisation; Bandits.](./notebooks/04_bandits.ipynb)
 5. [Markov Decision Processes and the Bellman Equations.](./notebooks/05_mdp.ipynb)
 6. [Temporal Difference Learning.](./notebooks/06_tdlearning.ipynb)
-7. [Artificial Neural Networks as Function Approximations: Delta Rule.](./notebooks/under-construction.ipynb)
+7. [Artificial Neural Networks as Function Approximations: Delta Rule.](./notebooks/07_deltarule.ipynb)
 8. [Artificial Neural Networks as Function Approximations: Backprobagation.](./notebooks/under-construction.ipynb)
 ---
