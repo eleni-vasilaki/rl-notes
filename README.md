@@ -1,4 +1,4 @@
-# 📚 Reinforcement Learning for Engineers: Algorithms from First Principles
+# 📚 Reinforcement Learning for Engineers: Deriving Algorithms from Loss Functions
 
 Reinforcement learning (RL) is perhaps the most fascinating type of machine learning. It draws inspiration from psychology and has the ability to directly model human and animal behaviour. It is also among the most challenging machine learning techniques, largely due to the absence of specific feedback during training, which adds to the complexity of the learning process.
 
