@@ -21,5 +21,5 @@ The material emphasises the importance of **manual derivations** for deep unders
 5. [Markov Decision Processes and the Bellman Equations.](./notebooks/05_mdp.ipynb)
 6. [Temporal Difference Learning.](./notebooks/06_tdlearning.ipynb)
 7. [Artificial Neural Networks as Function Approximations: Delta Rule.](./notebooks/07_deltarule.ipynb)
-8. [Artificial Neural Networks as Function Approximations: Backprobagation.](./notebooks/under-construction.ipynb)
+8. [Artificial Neural Networks as Function Approximations: Backprobagation.](./notebooks/08_backpropagation.ipynb)
 ---
