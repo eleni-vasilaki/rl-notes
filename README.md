@@ -14,6 +14,7 @@ The material emphasises the importance of **manual derivations** for deep unders
 
 ## **Table of Contents**
 
+0. [Object-Oriented Programming: A Primer for Reinforcement Learning.](./notebooks/00_oop_primer.ipynb)
 1. [Introduction to RL: Concepts, Matrix Operations and NumPy.](./notebooks/01_introduction.ipynb)
 2. [Revisiting Probabilities: Dungeons, Dragons and other monsters.](./notebooks/02_probabilities.ipynb)
 3. [Differentiation: The Concept of Optimisation, (Partial) Derivatives and (Partial) Differential Equations.](./notebooks/03_derivatives.ipynb)
