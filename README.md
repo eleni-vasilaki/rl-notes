@@ -23,4 +23,5 @@ The material emphasises the importance of **manual derivations** for deep unders
 6. [Temporal Difference Learning.](./notebooks/06_tdlearning.ipynb)
 7. [Artificial Neural Networks as Function Approximations: Delta Rule.](./notebooks/07_deltarule.ipynb)
 8. [Artificial Neural Networks as Function Approximations: Backprobagation.](./notebooks/08_backpropagation.ipynb)
+8. [Deep Q-Network.](./notebooks/09_dqn.ipynb)
 ---
